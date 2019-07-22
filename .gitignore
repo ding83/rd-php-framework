@@ -1,0 +1,22 @@
+/node_modules
+/storage/*
+!/storage/.gitkeep
+/public/js/bundle/dist/*
+!/public/js/bundle/dist/.gitkeep
+/.idea
+/.vagrant
+Homestead.json
+Homestead.yaml
+npm-debug.log
+yarn-error.log
+.env
+
+# Eclipse Meta Files
+.buildpath
+.project
+/.settings
+
+composer.lock
+.phpintel/
+
+/vendor
